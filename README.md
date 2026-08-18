@@ -1,6 +1,7 @@
 # NYC AP/IB 教育公平性探索分析
 
 基于纽约州教育部（NYSED）2023–2024 学年 AP / IB 课程与评估公开数据，完成数据清洗、分层探索性分析，并用交互可视化回答教育机会如何在不同群体、地区与课程之间分配。
+讲解视频：https://www.bilibili.com/video/BV1NTSKB2EnV/?vd_source=b7f6a28b749c1ab4df5026e760caa934
 
 ## 研究问题
 
